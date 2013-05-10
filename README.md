@@ -10,4 +10,5 @@ For numbers which are multiples of both three and five print "FizzBuzz.”
 Current programming languages with examples of FizzBuzz:
 [*] Javascript
 [*] PHP
+[*] Python
 [*] Ruby
